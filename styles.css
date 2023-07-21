@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	justify-content:space-evenly;
+	width:500px;
+}
+.one{
+	width:150px;
+}
